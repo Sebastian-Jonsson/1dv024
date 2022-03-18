@@ -1,0 +1,13 @@
+D:\Kurser\1dv024\examination-3\twentyOne\bin\Debug\netcoreapp3.1\TwentyOne.exe
+D:\Kurser\1dv024\examination-3\twentyOne\bin\Debug\netcoreapp3.1\TwentyOne.deps.json
+D:\Kurser\1dv024\examination-3\twentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.json
+D:\Kurser\1dv024\examination-3\twentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.dev.json
+D:\Kurser\1dv024\examination-3\twentyOne\bin\Debug\netcoreapp3.1\TwentyOne.dll
+D:\Kurser\1dv024\examination-3\twentyOne\bin\Debug\netcoreapp3.1\TwentyOne.pdb
+D:\Kurser\1dv024\examination-3\twentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csprojAssemblyReference.cache
+D:\Kurser\1dv024\examination-3\twentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CoreCompileInputs.cache
+D:\Kurser\1dv024\examination-3\twentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfoInputs.cache
+D:\Kurser\1dv024\examination-3\twentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfo.cs
+D:\Kurser\1dv024\examination-3\twentyOne\obj\Debug\netcoreapp3.1\TwentyOne.dll
+D:\Kurser\1dv024\examination-3\twentyOne\obj\Debug\netcoreapp3.1\TwentyOne.pdb
+D:\Kurser\1dv024\examination-3\twentyOne\obj\Debug\netcoreapp3.1\TwentyOne.genruntimeconfig.cache
