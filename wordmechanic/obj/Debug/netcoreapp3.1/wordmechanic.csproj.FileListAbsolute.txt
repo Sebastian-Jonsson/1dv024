@@ -1,0 +1,13 @@
+D:\Kurser\1dv024\exercises\wordmechanic\obj\Debug\netcoreapp3.1\wordmechanic.csprojAssemblyReference.cache
+D:\Kurser\1dv024\exercises\wordmechanic\obj\Debug\netcoreapp3.1\wordmechanic.csproj.CoreCompileInputs.cache
+D:\Kurser\1dv024\exercises\wordmechanic\obj\Debug\netcoreapp3.1\wordmechanic.AssemblyInfoInputs.cache
+D:\Kurser\1dv024\exercises\wordmechanic\obj\Debug\netcoreapp3.1\wordmechanic.AssemblyInfo.cs
+D:\Kurser\1dv024\exercises\wordmechanic\bin\Debug\netcoreapp3.1\wordmechanic.exe
+D:\Kurser\1dv024\exercises\wordmechanic\bin\Debug\netcoreapp3.1\wordmechanic.deps.json
+D:\Kurser\1dv024\exercises\wordmechanic\bin\Debug\netcoreapp3.1\wordmechanic.runtimeconfig.json
+D:\Kurser\1dv024\exercises\wordmechanic\bin\Debug\netcoreapp3.1\wordmechanic.runtimeconfig.dev.json
+D:\Kurser\1dv024\exercises\wordmechanic\bin\Debug\netcoreapp3.1\wordmechanic.dll
+D:\Kurser\1dv024\exercises\wordmechanic\bin\Debug\netcoreapp3.1\wordmechanic.pdb
+D:\Kurser\1dv024\exercises\wordmechanic\obj\Debug\netcoreapp3.1\wordmechanic.dll
+D:\Kurser\1dv024\exercises\wordmechanic\obj\Debug\netcoreapp3.1\wordmechanic.pdb
+D:\Kurser\1dv024\exercises\wordmechanic\obj\Debug\netcoreapp3.1\wordmechanic.genruntimeconfig.cache

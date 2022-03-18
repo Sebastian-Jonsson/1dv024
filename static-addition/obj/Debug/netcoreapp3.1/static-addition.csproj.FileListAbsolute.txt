@@ -1,0 +1,13 @@
+D:\Kurser\1dv430\exercises\static-addition\bin\Debug\netcoreapp3.1\static-addition.exe
+D:\Kurser\1dv430\exercises\static-addition\bin\Debug\netcoreapp3.1\static-addition.deps.json
+D:\Kurser\1dv430\exercises\static-addition\bin\Debug\netcoreapp3.1\static-addition.runtimeconfig.json
+D:\Kurser\1dv430\exercises\static-addition\bin\Debug\netcoreapp3.1\static-addition.runtimeconfig.dev.json
+D:\Kurser\1dv430\exercises\static-addition\bin\Debug\netcoreapp3.1\static-addition.dll
+D:\Kurser\1dv430\exercises\static-addition\bin\Debug\netcoreapp3.1\static-addition.pdb
+D:\Kurser\1dv430\exercises\static-addition\obj\Debug\netcoreapp3.1\static-addition.csprojAssemblyReference.cache
+D:\Kurser\1dv430\exercises\static-addition\obj\Debug\netcoreapp3.1\static-addition.csproj.CoreCompileInputs.cache
+D:\Kurser\1dv430\exercises\static-addition\obj\Debug\netcoreapp3.1\static-addition.AssemblyInfoInputs.cache
+D:\Kurser\1dv430\exercises\static-addition\obj\Debug\netcoreapp3.1\static-addition.AssemblyInfo.cs
+D:\Kurser\1dv430\exercises\static-addition\obj\Debug\netcoreapp3.1\static-addition.dll
+D:\Kurser\1dv430\exercises\static-addition\obj\Debug\netcoreapp3.1\static-addition.pdb
+D:\Kurser\1dv430\exercises\static-addition\obj\Debug\netcoreapp3.1\static-addition.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Kurser\1dv024\exercises\repeatable-quotes\bin\Debug\netcoreapp3.1\repeatable-quotes.exe
+D:\Kurser\1dv024\exercises\repeatable-quotes\bin\Debug\netcoreapp3.1\repeatable-quotes.deps.json
+D:\Kurser\1dv024\exercises\repeatable-quotes\bin\Debug\netcoreapp3.1\repeatable-quotes.runtimeconfig.json
+D:\Kurser\1dv024\exercises\repeatable-quotes\bin\Debug\netcoreapp3.1\repeatable-quotes.runtimeconfig.dev.json
+D:\Kurser\1dv024\exercises\repeatable-quotes\bin\Debug\netcoreapp3.1\repeatable-quotes.dll
+D:\Kurser\1dv024\exercises\repeatable-quotes\bin\Debug\netcoreapp3.1\repeatable-quotes.pdb
+D:\Kurser\1dv024\exercises\repeatable-quotes\obj\Debug\netcoreapp3.1\repeatable-quotes.csprojAssemblyReference.cache
+D:\Kurser\1dv024\exercises\repeatable-quotes\obj\Debug\netcoreapp3.1\repeatable-quotes.csproj.CoreCompileInputs.cache
+D:\Kurser\1dv024\exercises\repeatable-quotes\obj\Debug\netcoreapp3.1\repeatable-quotes.AssemblyInfoInputs.cache
+D:\Kurser\1dv024\exercises\repeatable-quotes\obj\Debug\netcoreapp3.1\repeatable-quotes.AssemblyInfo.cs
+D:\Kurser\1dv024\exercises\repeatable-quotes\obj\Debug\netcoreapp3.1\repeatable-quotes.dll
+D:\Kurser\1dv024\exercises\repeatable-quotes\obj\Debug\netcoreapp3.1\repeatable-quotes.pdb
+D:\Kurser\1dv024\exercises\repeatable-quotes\obj\Debug\netcoreapp3.1\repeatable-quotes.genruntimeconfig.cache
