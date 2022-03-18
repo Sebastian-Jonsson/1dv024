@@ -1,0 +1,13 @@
+D:\Kurser\1dv430\exercises\ProductOfWholeNumber\obj\Debug\netcoreapp3.1\ProductOfWholeNumber.csprojAssemblyReference.cache
+D:\Kurser\1dv430\exercises\ProductOfWholeNumber\obj\Debug\netcoreapp3.1\ProductOfWholeNumber.csproj.CoreCompileInputs.cache
+D:\Kurser\1dv430\exercises\ProductOfWholeNumber\obj\Debug\netcoreapp3.1\ProductOfWholeNumber.AssemblyInfoInputs.cache
+D:\Kurser\1dv430\exercises\ProductOfWholeNumber\obj\Debug\netcoreapp3.1\ProductOfWholeNumber.AssemblyInfo.cs
+D:\Kurser\1dv430\exercises\ProductOfWholeNumber\bin\Debug\netcoreapp3.1\ProductOfWholeNumber.exe
+D:\Kurser\1dv430\exercises\ProductOfWholeNumber\bin\Debug\netcoreapp3.1\ProductOfWholeNumber.deps.json
+D:\Kurser\1dv430\exercises\ProductOfWholeNumber\bin\Debug\netcoreapp3.1\ProductOfWholeNumber.runtimeconfig.json
+D:\Kurser\1dv430\exercises\ProductOfWholeNumber\bin\Debug\netcoreapp3.1\ProductOfWholeNumber.runtimeconfig.dev.json
+D:\Kurser\1dv430\exercises\ProductOfWholeNumber\bin\Debug\netcoreapp3.1\ProductOfWholeNumber.dll
+D:\Kurser\1dv430\exercises\ProductOfWholeNumber\bin\Debug\netcoreapp3.1\ProductOfWholeNumber.pdb
+D:\Kurser\1dv430\exercises\ProductOfWholeNumber\obj\Debug\netcoreapp3.1\ProductOfWholeNumber.dll
+D:\Kurser\1dv430\exercises\ProductOfWholeNumber\obj\Debug\netcoreapp3.1\ProductOfWholeNumber.pdb
+D:\Kurser\1dv430\exercises\ProductOfWholeNumber\obj\Debug\netcoreapp3.1\ProductOfWholeNumber.genruntimeconfig.cache

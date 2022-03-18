@@ -1,0 +1,13 @@
+D:\Kurser\1dv024\exercises\PersonalCheckDigit\obj\Debug\netcoreapp3.1\PersonalCheckDigit.csprojAssemblyReference.cache
+D:\Kurser\1dv024\exercises\PersonalCheckDigit\obj\Debug\netcoreapp3.1\PersonalCheckDigit.csproj.CoreCompileInputs.cache
+D:\Kurser\1dv024\exercises\PersonalCheckDigit\obj\Debug\netcoreapp3.1\PersonalCheckDigit.AssemblyInfoInputs.cache
+D:\Kurser\1dv024\exercises\PersonalCheckDigit\obj\Debug\netcoreapp3.1\PersonalCheckDigit.AssemblyInfo.cs
+D:\Kurser\1dv024\exercises\PersonalCheckDigit\bin\Debug\netcoreapp3.1\PersonalCheckDigit.exe
+D:\Kurser\1dv024\exercises\PersonalCheckDigit\bin\Debug\netcoreapp3.1\PersonalCheckDigit.deps.json
+D:\Kurser\1dv024\exercises\PersonalCheckDigit\bin\Debug\netcoreapp3.1\PersonalCheckDigit.runtimeconfig.json
+D:\Kurser\1dv024\exercises\PersonalCheckDigit\bin\Debug\netcoreapp3.1\PersonalCheckDigit.runtimeconfig.dev.json
+D:\Kurser\1dv024\exercises\PersonalCheckDigit\bin\Debug\netcoreapp3.1\PersonalCheckDigit.dll
+D:\Kurser\1dv024\exercises\PersonalCheckDigit\bin\Debug\netcoreapp3.1\PersonalCheckDigit.pdb
+D:\Kurser\1dv024\exercises\PersonalCheckDigit\obj\Debug\netcoreapp3.1\PersonalCheckDigit.dll
+D:\Kurser\1dv024\exercises\PersonalCheckDigit\obj\Debug\netcoreapp3.1\PersonalCheckDigit.pdb
+D:\Kurser\1dv024\exercises\PersonalCheckDigit\obj\Debug\netcoreapp3.1\PersonalCheckDigit.genruntimeconfig.cache

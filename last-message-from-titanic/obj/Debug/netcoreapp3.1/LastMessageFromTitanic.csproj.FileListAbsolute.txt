@@ -1,0 +1,13 @@
+D:\Kurser\1dv430\exercises\last-message-from-titanic\bin\Debug\netcoreapp3.1\LastMessageFromTitanic.exe
+D:\Kurser\1dv430\exercises\last-message-from-titanic\bin\Debug\netcoreapp3.1\LastMessageFromTitanic.deps.json
+D:\Kurser\1dv430\exercises\last-message-from-titanic\bin\Debug\netcoreapp3.1\LastMessageFromTitanic.runtimeconfig.json
+D:\Kurser\1dv430\exercises\last-message-from-titanic\bin\Debug\netcoreapp3.1\LastMessageFromTitanic.runtimeconfig.dev.json
+D:\Kurser\1dv430\exercises\last-message-from-titanic\bin\Debug\netcoreapp3.1\LastMessageFromTitanic.dll
+D:\Kurser\1dv430\exercises\last-message-from-titanic\bin\Debug\netcoreapp3.1\LastMessageFromTitanic.pdb
+D:\Kurser\1dv430\exercises\last-message-from-titanic\obj\Debug\netcoreapp3.1\LastMessageFromTitanic.csprojAssemblyReference.cache
+D:\Kurser\1dv430\exercises\last-message-from-titanic\obj\Debug\netcoreapp3.1\LastMessageFromTitanic.csproj.CoreCompileInputs.cache
+D:\Kurser\1dv430\exercises\last-message-from-titanic\obj\Debug\netcoreapp3.1\LastMessageFromTitanic.AssemblyInfoInputs.cache
+D:\Kurser\1dv430\exercises\last-message-from-titanic\obj\Debug\netcoreapp3.1\LastMessageFromTitanic.AssemblyInfo.cs
+D:\Kurser\1dv430\exercises\last-message-from-titanic\obj\Debug\netcoreapp3.1\LastMessageFromTitanic.dll
+D:\Kurser\1dv430\exercises\last-message-from-titanic\obj\Debug\netcoreapp3.1\LastMessageFromTitanic.pdb
+D:\Kurser\1dv430\exercises\last-message-from-titanic\obj\Debug\netcoreapp3.1\LastMessageFromTitanic.genruntimeconfig.cache
