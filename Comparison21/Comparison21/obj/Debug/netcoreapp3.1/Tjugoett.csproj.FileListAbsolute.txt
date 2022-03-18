@@ -1,0 +1,12 @@
+/Users/adrianrosales/school/1dv024/examination-3/Tjugoett/bin/Debug/netcoreapp3.1/Tjugoett.deps.json
+/Users/adrianrosales/school/1dv024/examination-3/Tjugoett/bin/Debug/netcoreapp3.1/Tjugoett.runtimeconfig.json
+/Users/adrianrosales/school/1dv024/examination-3/Tjugoett/bin/Debug/netcoreapp3.1/Tjugoett.runtimeconfig.dev.json
+/Users/adrianrosales/school/1dv024/examination-3/Tjugoett/bin/Debug/netcoreapp3.1/Tjugoett.dll
+/Users/adrianrosales/school/1dv024/examination-3/Tjugoett/bin/Debug/netcoreapp3.1/Tjugoett.pdb
+/Users/adrianrosales/school/1dv024/examination-3/Tjugoett/obj/Debug/netcoreapp3.1/Tjugoett.csprojAssemblyReference.cache
+/Users/adrianrosales/school/1dv024/examination-3/Tjugoett/obj/Debug/netcoreapp3.1/Tjugoett.csproj.CoreCompileInputs.cache
+/Users/adrianrosales/school/1dv024/examination-3/Tjugoett/obj/Debug/netcoreapp3.1/Tjugoett.AssemblyInfoInputs.cache
+/Users/adrianrosales/school/1dv024/examination-3/Tjugoett/obj/Debug/netcoreapp3.1/Tjugoett.AssemblyInfo.cs
+/Users/adrianrosales/school/1dv024/examination-3/Tjugoett/obj/Debug/netcoreapp3.1/Tjugoett.dll
+/Users/adrianrosales/school/1dv024/examination-3/Tjugoett/obj/Debug/netcoreapp3.1/Tjugoett.pdb
+/Users/adrianrosales/school/1dv024/examination-3/Tjugoett/obj/Debug/netcoreapp3.1/Tjugoett.genruntimeconfig.cache
