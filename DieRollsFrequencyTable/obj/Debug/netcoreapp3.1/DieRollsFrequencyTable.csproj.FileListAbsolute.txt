@@ -1,0 +1,13 @@
+D:\Kurser\1dv430\exercises\DieRollsFrequencyTable\bin\Debug\netcoreapp3.1\DieRollsFrequencyTable.exe
+D:\Kurser\1dv430\exercises\DieRollsFrequencyTable\bin\Debug\netcoreapp3.1\DieRollsFrequencyTable.deps.json
+D:\Kurser\1dv430\exercises\DieRollsFrequencyTable\bin\Debug\netcoreapp3.1\DieRollsFrequencyTable.runtimeconfig.json
+D:\Kurser\1dv430\exercises\DieRollsFrequencyTable\bin\Debug\netcoreapp3.1\DieRollsFrequencyTable.runtimeconfig.dev.json
+D:\Kurser\1dv430\exercises\DieRollsFrequencyTable\bin\Debug\netcoreapp3.1\DieRollsFrequencyTable.dll
+D:\Kurser\1dv430\exercises\DieRollsFrequencyTable\bin\Debug\netcoreapp3.1\DieRollsFrequencyTable.pdb
+D:\Kurser\1dv430\exercises\DieRollsFrequencyTable\obj\Debug\netcoreapp3.1\DieRollsFrequencyTable.csprojAssemblyReference.cache
+D:\Kurser\1dv430\exercises\DieRollsFrequencyTable\obj\Debug\netcoreapp3.1\DieRollsFrequencyTable.csproj.CoreCompileInputs.cache
+D:\Kurser\1dv430\exercises\DieRollsFrequencyTable\obj\Debug\netcoreapp3.1\DieRollsFrequencyTable.AssemblyInfoInputs.cache
+D:\Kurser\1dv430\exercises\DieRollsFrequencyTable\obj\Debug\netcoreapp3.1\DieRollsFrequencyTable.AssemblyInfo.cs
+D:\Kurser\1dv430\exercises\DieRollsFrequencyTable\obj\Debug\netcoreapp3.1\DieRollsFrequencyTable.dll
+D:\Kurser\1dv430\exercises\DieRollsFrequencyTable\obj\Debug\netcoreapp3.1\DieRollsFrequencyTable.pdb
+D:\Kurser\1dv430\exercises\DieRollsFrequencyTable\obj\Debug\netcoreapp3.1\DieRollsFrequencyTable.genruntimeconfig.cache

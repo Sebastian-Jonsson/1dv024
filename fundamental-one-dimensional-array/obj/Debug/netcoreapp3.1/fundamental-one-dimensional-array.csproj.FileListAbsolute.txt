@@ -1,0 +1,13 @@
+D:\Kurser\1dv430\exercises\fundamental-one-dimensional-array\bin\Debug\netcoreapp3.1\fundamental-one-dimensional-array.exe
+D:\Kurser\1dv430\exercises\fundamental-one-dimensional-array\bin\Debug\netcoreapp3.1\fundamental-one-dimensional-array.deps.json
+D:\Kurser\1dv430\exercises\fundamental-one-dimensional-array\bin\Debug\netcoreapp3.1\fundamental-one-dimensional-array.runtimeconfig.json
+D:\Kurser\1dv430\exercises\fundamental-one-dimensional-array\bin\Debug\netcoreapp3.1\fundamental-one-dimensional-array.runtimeconfig.dev.json
+D:\Kurser\1dv430\exercises\fundamental-one-dimensional-array\bin\Debug\netcoreapp3.1\fundamental-one-dimensional-array.dll
+D:\Kurser\1dv430\exercises\fundamental-one-dimensional-array\bin\Debug\netcoreapp3.1\fundamental-one-dimensional-array.pdb
+D:\Kurser\1dv430\exercises\fundamental-one-dimensional-array\obj\Debug\netcoreapp3.1\fundamental-one-dimensional-array.csprojAssemblyReference.cache
+D:\Kurser\1dv430\exercises\fundamental-one-dimensional-array\obj\Debug\netcoreapp3.1\fundamental-one-dimensional-array.csproj.CoreCompileInputs.cache
+D:\Kurser\1dv430\exercises\fundamental-one-dimensional-array\obj\Debug\netcoreapp3.1\fundamental-one-dimensional-array.AssemblyInfoInputs.cache
+D:\Kurser\1dv430\exercises\fundamental-one-dimensional-array\obj\Debug\netcoreapp3.1\fundamental-one-dimensional-array.AssemblyInfo.cs
+D:\Kurser\1dv430\exercises\fundamental-one-dimensional-array\obj\Debug\netcoreapp3.1\fundamental-one-dimensional-array.dll
+D:\Kurser\1dv430\exercises\fundamental-one-dimensional-array\obj\Debug\netcoreapp3.1\fundamental-one-dimensional-array.pdb
+D:\Kurser\1dv430\exercises\fundamental-one-dimensional-array\obj\Debug\netcoreapp3.1\fundamental-one-dimensional-array.genruntimeconfig.cache

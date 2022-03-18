@@ -1,0 +1,13 @@
+D:\Kurser\1dv430\exercises\CoolTemperatureConverter\bin\Debug\netcoreapp3.1\CoolTemperatureConverter.exe
+D:\Kurser\1dv430\exercises\CoolTemperatureConverter\bin\Debug\netcoreapp3.1\CoolTemperatureConverter.deps.json
+D:\Kurser\1dv430\exercises\CoolTemperatureConverter\bin\Debug\netcoreapp3.1\CoolTemperatureConverter.runtimeconfig.json
+D:\Kurser\1dv430\exercises\CoolTemperatureConverter\bin\Debug\netcoreapp3.1\CoolTemperatureConverter.runtimeconfig.dev.json
+D:\Kurser\1dv430\exercises\CoolTemperatureConverter\bin\Debug\netcoreapp3.1\CoolTemperatureConverter.dll
+D:\Kurser\1dv430\exercises\CoolTemperatureConverter\bin\Debug\netcoreapp3.1\CoolTemperatureConverter.pdb
+D:\Kurser\1dv430\exercises\CoolTemperatureConverter\obj\Debug\netcoreapp3.1\CoolTemperatureConverter.csprojAssemblyReference.cache
+D:\Kurser\1dv430\exercises\CoolTemperatureConverter\obj\Debug\netcoreapp3.1\CoolTemperatureConverter.csproj.CoreCompileInputs.cache
+D:\Kurser\1dv430\exercises\CoolTemperatureConverter\obj\Debug\netcoreapp3.1\CoolTemperatureConverter.AssemblyInfoInputs.cache
+D:\Kurser\1dv430\exercises\CoolTemperatureConverter\obj\Debug\netcoreapp3.1\CoolTemperatureConverter.AssemblyInfo.cs
+D:\Kurser\1dv430\exercises\CoolTemperatureConverter\obj\Debug\netcoreapp3.1\CoolTemperatureConverter.dll
+D:\Kurser\1dv430\exercises\CoolTemperatureConverter\obj\Debug\netcoreapp3.1\CoolTemperatureConverter.pdb
+D:\Kurser\1dv430\exercises\CoolTemperatureConverter\obj\Debug\netcoreapp3.1\CoolTemperatureConverter.genruntimeconfig.cache

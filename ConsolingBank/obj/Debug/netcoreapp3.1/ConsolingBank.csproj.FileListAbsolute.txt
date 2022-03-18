@@ -1,0 +1,13 @@
+D:\Kurser\1dv024\exercises\ConsolingBank\obj\Debug\netcoreapp3.1\ConsolingBank.csprojAssemblyReference.cache
+D:\Kurser\1dv024\exercises\ConsolingBank\obj\Debug\netcoreapp3.1\ConsolingBank.csproj.CoreCompileInputs.cache
+D:\Kurser\1dv024\exercises\ConsolingBank\obj\Debug\netcoreapp3.1\ConsolingBank.AssemblyInfoInputs.cache
+D:\Kurser\1dv024\exercises\ConsolingBank\obj\Debug\netcoreapp3.1\ConsolingBank.AssemblyInfo.cs
+D:\Kurser\1dv024\exercises\ConsolingBank\bin\Debug\netcoreapp3.1\ConsolingBank.exe
+D:\Kurser\1dv024\exercises\ConsolingBank\bin\Debug\netcoreapp3.1\ConsolingBank.deps.json
+D:\Kurser\1dv024\exercises\ConsolingBank\bin\Debug\netcoreapp3.1\ConsolingBank.runtimeconfig.json
+D:\Kurser\1dv024\exercises\ConsolingBank\bin\Debug\netcoreapp3.1\ConsolingBank.runtimeconfig.dev.json
+D:\Kurser\1dv024\exercises\ConsolingBank\bin\Debug\netcoreapp3.1\ConsolingBank.dll
+D:\Kurser\1dv024\exercises\ConsolingBank\bin\Debug\netcoreapp3.1\ConsolingBank.pdb
+D:\Kurser\1dv024\exercises\ConsolingBank\obj\Debug\netcoreapp3.1\ConsolingBank.dll
+D:\Kurser\1dv024\exercises\ConsolingBank\obj\Debug\netcoreapp3.1\ConsolingBank.pdb
+D:\Kurser\1dv024\exercises\ConsolingBank\obj\Debug\netcoreapp3.1\ConsolingBank.genruntimeconfig.cache
